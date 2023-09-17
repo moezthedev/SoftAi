@@ -1,0 +1,14 @@
+
+@media only screen and (max-width: 900px) {
+    .features-container{
+       
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+       
+    }
+    .features{
+        width: 100%;
+    }
+  }
